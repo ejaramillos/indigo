@@ -1,6 +1,6 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Erick Jaramillo
+bio: innovación, pasión por las nuevas tecnologías y con ganas de romperla en cada reto que se presente..
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -8,7 +8,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/ErickJaramillo.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -50,7 +50,7 @@ github: mygithub
 medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: erick.jaramillo@hotmail.com
 
 authors:
     johndoe:
